@@ -1,0 +1,12 @@
+.navButton {
+  color: white;
+  background-color: red;
+}
+.navButton:hover {
+  background-color: white;
+}
+
+#pulldown a:hover {
+  background-color: #48c3d3;
+  color: #fff;
+}

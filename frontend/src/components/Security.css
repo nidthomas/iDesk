@@ -1,0 +1,55 @@
+
+.security {
+  position: absolute;
+  background-color: white;
+  max-width: 70%;
+  overflow: hidden;
+  margin-top: 1%;
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-bottom: 5%;
+  margin-bottom: 5%;
+  border-style: dotted;
+  border-color: gray;
+}
+
+.inputFormBox {
+  /* position: absolute; */
+  background-color: white;
+  /* max-width: 70%; */
+  overflow: hidden;
+  margin-top: 1%;
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-bottom: 5%;
+  margin-bottom: 5%;
+  border-style: dotted;
+  border-color: gray;
+}
+
+.container {
+  min-height: 100%;
+  min-width: 100%;
+  overflow: hidden;
+}
+
+.dialogButton {
+  max-width:100%;
+  margin: 0 auto;
+}
+
+.dialog {
+  position: center;
+  max-width: 100%;
+  text-align: center;
+}
+
+.loadingSecurity {
+  max-width: 100%;
+  display: inline-block;
+  position: absolute;
+  top: 42%;
+  left: 60%;
+  z-index: 9;
+
+}

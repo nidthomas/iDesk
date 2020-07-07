@@ -1,0 +1,6 @@
+export const CLEAR_CONTACT = "CLEAR_CONTACT";
+export const SHOW_CONTACT = "SHOW_CONTACT";
+export const CHANGE_CONTACT = "CHANGE_CONTACT";
+export const UPDATE_CONTACT = "UPDATE_CONTACT";
+export const LOAD_CONTACTS = "LOAD_CONTACTS";
+export const SHOW_IMAGE = "SHOW_IMAGE";
