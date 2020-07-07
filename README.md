@@ -1,6 +1,6 @@
-# Front-Desk-Management
+# iDesk
 
-IBS front desk management application
+Front desk management application
 
 To build:
   mvn clean install
